@@ -4,10 +4,10 @@
 	<ChildItems>
 		<Button name="СделатьХорошо" id="1">
 			<Type>UsualButton</Type>
-			<Width>36</Width>
-			<Height>4</Height>
+			<Width>40</Width>
+			<Height>5</Height>
 			<CommandName>Form.Command.СделатьХорошо</CommandName>
-			<Font bold="true" kind="AutoFont"/>
+			<Font height="10" bold="true" kind="AutoFont"/>
 			<ExtendedTooltip name="СделатьХорошоРасширеннаяПодсказка" id="2"/>
 		</Button>
 	</ChildItems>
