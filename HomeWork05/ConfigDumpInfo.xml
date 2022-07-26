@@ -1,37 +1,39 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
 	<ConfigVersions>
-		<Metadata name="AccumulationRegister.StockInventory" id="1692931a-d970-4c8c-ab7a-b280a162214d" configVersion="089d06e66d139741b8cf21d93f12714e00000000">
+		<Metadata name="AccumulationRegister.StockInventory" id="1692931a-d970-4c8c-ab7a-b280a162214d" configVersion="cc643e181841f648b5d6dd9ef013283900000000">
 			<Metadata name="AccumulationRegister.StockInventory.Resource.Quantity" id="603f0771-163a-4911-b096-694b6bda689f"/>
 			<Metadata name="AccumulationRegister.StockInventory.Dimension.Item" id="e266ddb3-ba76-4742-a66b-ca45bb955a4f"/>
 		</Metadata>
-		<Metadata name="Catalog.Goods" id="a392240a-78d7-49ab-868d-e391ce380df5" configVersion="b3f00bf51df69b4b953dcf78fe8bedb700000000"/>
-		<Metadata name="Configuration.Конфигурация" id="258ea402-104a-44a6-bca7-eeade7f8014d" configVersion="d2dde36a8dfeba4d9a20f4316026129800000000"/>
-		<Metadata name="Document.GoodsReceipt" id="40df4900-eec5-47cd-a2c3-4605f3a64b7d" configVersion="f48130b8b508a2428888c5648926c0a400000000">
+		<Metadata name="Catalog.Goods" id="a392240a-78d7-49ab-868d-e391ce380df5" configVersion="b4fe9cd9a80fe74099feee7ed0b82e0d00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="258ea402-104a-44a6-bca7-eeade7f8014d" configVersion="d3a409bc6964df42afa53313d905d41100000000"/>
+		<Metadata name="Document.GoodsReceipt" id="40df4900-eec5-47cd-a2c3-4605f3a64b7d" configVersion="f701134cde477941b7f65f1ee946096400000000">
 			<Metadata name="Document.GoodsReceipt.Attribute.Comment" id="0ac3248f-fdaa-44d2-9bed-c967495db038"/>
 			<Metadata name="Document.GoodsReceipt.TabularSection.ItemList" id="0cc1236e-6f05-4da8-bb94-3607a7728540"/>
 			<Metadata name="Document.GoodsReceipt.TabularSection.ItemList.Attribute.Sum" id="25f5323f-4ad7-42b5-924c-c6ed50ca5db9"/>
 			<Metadata name="Document.GoodsReceipt.TabularSection.ItemList.Attribute.Quantity" id="4df49783-c138-4e36-8bc7-4d87da159575"/>
 			<Metadata name="Document.GoodsReceipt.TabularSection.ItemList.Attribute.Item" id="795da5d4-790c-41c8-9b8a-4264b4b2a177"/>
+			<Metadata name="Document.GoodsReceipt.Attribute.TotalSum" id="92d5ed90-284b-4dd8-803f-25105d389b22"/>
 			<Metadata name="Document.GoodsReceipt.TabularSection.ItemList.Attribute.Price" id="cd69429d-b1fb-48e1-96dc-c7d71c4746b9"/>
 		</Metadata>
-		<Metadata name="Document.GoodsReceipt.Form.DocumentForm" id="54385ed7-7e08-4deb-83c7-4b7e6de4c4c5" configVersion="f1e01fffadb0b6479c03130546821fc500000000"/>
-		<Metadata name="Document.GoodsReceipt.Form.DocumentForm.Form" id="54385ed7-7e08-4deb-83c7-4b7e6de4c4c5.0" configVersion="a6aac71705af754fa38bacc548d6e38600000000"/>
-		<Metadata name="Document.GoodsReceipt.ObjectModule" id="40df4900-eec5-47cd-a2c3-4605f3a64b7d.0" configVersion="8ed7d41508fafa478e83328c5068197f00000000"/>
-		<Metadata name="Document.GoodsSale" id="af080429-d134-40ab-8f29-5ecd32c64983" configVersion="19143c92ebbf0b46820035bfd8637e5c00000000">
+		<Metadata name="Document.GoodsReceipt.Form.DocumentForm" id="54385ed7-7e08-4deb-83c7-4b7e6de4c4c5" configVersion="faa70090ec51ac43a9107b39c7670f4900000000"/>
+		<Metadata name="Document.GoodsReceipt.Form.DocumentForm.Form" id="54385ed7-7e08-4deb-83c7-4b7e6de4c4c5.0" configVersion="50875661baa19c4eaa78750c4f9d1d8300000000"/>
+		<Metadata name="Document.GoodsReceipt.ObjectModule" id="40df4900-eec5-47cd-a2c3-4605f3a64b7d.0" configVersion="b4081b8f145d064a8c50c662e1c0e5cb00000000"/>
+		<Metadata name="Document.GoodsSale" id="af080429-d134-40ab-8f29-5ecd32c64983" configVersion="855c19de231a4b4898185e5ce746ca8b00000000">
 			<Metadata name="Document.GoodsSale.TabularSection.ItemList.Attribute.Sum" id="14993bf4-6813-4b96-b707-7eaed0a7824c"/>
 			<Metadata name="Document.GoodsSale.TabularSection.ItemList" id="257c6bf7-8a0d-4007-997a-6a257f07d281"/>
 			<Metadata name="Document.GoodsSale.TabularSection.ItemList.Attribute.Item" id="5367ddb4-ef04-4a34-a7b8-2803fb1112ed"/>
 			<Metadata name="Document.GoodsSale.Attribute.Comment" id="8287fcfe-d9e1-41e6-9508-7e94718ad085"/>
 			<Metadata name="Document.GoodsSale.TabularSection.ItemList.Attribute.Price" id="83d2db65-6ba5-4377-a388-ab48acd07d13"/>
+			<Metadata name="Document.GoodsSale.Attribute.TotalSum" id="abee7330-1037-424a-a129-436e4adf11fd"/>
 			<Metadata name="Document.GoodsSale.TabularSection.ItemList.Attribute.Quantity" id="cefc725c-ce7c-4aeb-9c0a-9de78c850a60"/>
 		</Metadata>
-		<Metadata name="Document.GoodsSale.Form.DocumentForm" id="8008ae8e-3bd0-432b-a753-f4ae8855670f" configVersion="d304edb7f12f1543a3598b641b0aa08200000000"/>
-		<Metadata name="Document.GoodsSale.Form.DocumentForm.Form" id="8008ae8e-3bd0-432b-a753-f4ae8855670f.0" configVersion="9c259f83ce1d2e4ca8b5b9e1260bfe0700000000"/>
-		<Metadata name="Document.GoodsSale.ObjectModule" id="af080429-d134-40ab-8f29-5ecd32c64983.0" configVersion="02fe6f04dae2b245b7861f51a455ebe500000000"/>
-		<Metadata name="Language.Русский" id="9f3ec6ef-691c-4859-b2f6-d0666a9d6bdc" configVersion="645e5eb44ab50048bdd40e643c81e34300000000"/>
-		<Metadata name="Report.ActualStocks" id="7b97e9a2-0d84-45ea-9abd-c77cbc2ee548" configVersion="f7860b54ada9b54ca9bfdd473548d40c00000000"/>
-		<Metadata name="Report.ActualStocks.Template.Template" id="e71e07f7-03a9-4550-8cd2-8ff22403619f" configVersion="a616c42614d8a045bc3089e5131e01ae00000000"/>
-		<Metadata name="Report.ActualStocks.Template.Template.Template" id="e71e07f7-03a9-4550-8cd2-8ff22403619f.0" configVersion="ccde5132def9a243871ac676bcfd22ed00000000"/>
+		<Metadata name="Document.GoodsSale.Form.DocumentForm" id="8008ae8e-3bd0-432b-a753-f4ae8855670f" configVersion="71b5aa9ef5755540aca1cf08ff04cf0400000000"/>
+		<Metadata name="Document.GoodsSale.Form.DocumentForm.Form" id="8008ae8e-3bd0-432b-a753-f4ae8855670f.0" configVersion="960ae877ae8ab545b28579da9e2b4c9c00000000"/>
+		<Metadata name="Document.GoodsSale.ObjectModule" id="af080429-d134-40ab-8f29-5ecd32c64983.0" configVersion="657bc179f8e7b0419d4b8baf396be4fa00000000"/>
+		<Metadata name="Language.Русский" id="9f3ec6ef-691c-4859-b2f6-d0666a9d6bdc" configVersion="e57a4801b760034a8c05652ba436d2d700000000"/>
+		<Metadata name="Report.ActualStocks" id="7b97e9a2-0d84-45ea-9abd-c77cbc2ee548" configVersion="c490f5e1c5b16c4e87142f1cee518ced00000000"/>
+		<Metadata name="Report.ActualStocks.Template.Template" id="e71e07f7-03a9-4550-8cd2-8ff22403619f" configVersion="59651906578c214183e2daea16f484d500000000"/>
+		<Metadata name="Report.ActualStocks.Template.Template.Template" id="e71e07f7-03a9-4550-8cd2-8ff22403619f.0" configVersion="5155807ca2d1c34a955a0734b625a99400000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
