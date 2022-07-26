@@ -50,7 +50,7 @@
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
 			<ChoiceDataGetModeOnInputByString>Directly</ChoiceDataGetModeOnInputByString>
 			<DefaultObjectForm>Document.GoodsReceipt.Form.DocumentForm</DefaultObjectForm>
-			<DefaultListForm/>
+			<DefaultListForm>Document.GoodsReceipt.Form.ListForm</DefaultListForm>
 			<DefaultChoiceForm/>
 			<AuxiliaryObjectForm/>
 			<AuxiliaryListForm/>
@@ -168,6 +168,7 @@
 				</Properties>
 			</Attribute>
 			<Form>DocumentForm</Form>
+			<Form>ListForm</Form>
 			<TabularSection uuid="0cc1236e-6f05-4da8-bb94-3607a7728540">
 				<InternalInfo>
 					<xr:GeneratedType name="DocumentTabularSection.GoodsReceipt.ItemList" category="TabularSection">
